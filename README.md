@@ -22,9 +22,19 @@ A desktop application built with Python for automating email sending, scheduling
 
 ## 🖼️ User Interface Preview
 
-![Alt text](screenshot/email_automation_screenshot_1.PNG)
 
----
+
+---![email automation screenshot 1](https://github.com/user-attachments/assets/eec7d6e9-9bd5-46b2-bf84-48197accd306)
+
+![email automation screenshot 2](https://github.com/user-attachments/assets/e67b72f0-8dda-437a-869e-e3ef0a784e00)
+
+
+
+![email automation screenshot 3](https://github.com/user-attachments/assets/f0c71776-fd73-46e9-968d-b07d4e2b47ba)
+
+
+
+![email automation screenshot 4](https://github.com/user-attachments/assets/b92de30d-c23b-4e2d-b090-eacd146c8c55)
 
 ## 📁 Project Structure
 
