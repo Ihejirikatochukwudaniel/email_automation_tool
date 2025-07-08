@@ -22,7 +22,7 @@ A desktop application built with Python for automating email sending, scheduling
 
 ## 🖼️ User Interface Preview
 
-> *(Add a screenshot here if available)*
+![Alt text](screenshot/email automation screenshot 1)
 
 ---
 
